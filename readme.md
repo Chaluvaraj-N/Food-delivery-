@@ -1,4 +1,4 @@
-# 🍔 Pentagon Bites Food Delivery
+
 
 A Django-based **food delivery web application** where users can browse a menu, add items to a cart, place orders, and pay using **Cash on Delivery** or **Stripe online payment (test mode)**.
 
